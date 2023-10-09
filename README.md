@@ -1,5 +1,4 @@
-*Update the Chinese translation to make it correct and more natural.
-*更新中文翻译，使其翻译正确和更自然。
+*Update the Chinese translation to make it correct and more natural.(更新中文翻译，使其翻译正确和更自然。)
 
 
 
