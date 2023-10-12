@@ -1,3 +1,7 @@
+*Update the Chinese translation to make it correct and more natural. (更新中文翻译，使其翻译正确和更自然。)
+
+
+
 # pfQuest (turtle)
 This AddOn is a [pfQuest](https://github.com/shagu/pfQuest) extension, which adds support for the [TurtleWoW](https://turtle-wow.org/) Private Server. In order to run this extension, the latest version of [pfQuest](https://github.com/shagu/pfQuest) is always required and only enUS-Gameclients are supported.
 
