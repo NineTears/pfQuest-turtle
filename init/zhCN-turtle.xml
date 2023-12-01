@@ -5,4 +5,5 @@
   <Include file="..\db\zhCN\quests-turtle.lua"/>
   <Include file="..\db\zhCN\zones-turtle.lua"/>
   <Include file="..\db\zhCN\professions-turtle.lua"/>
+  <Include file="..\db\zhCN\overrite-turtle.lua"/>
 </Ui>
