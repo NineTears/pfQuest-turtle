@@ -1,6 +1,9 @@
-local db = pfDB["quests"]["zhCN-turtle"]
+-- 需要临时使用英文名称的任务ID列表：
+local ids = { 41053, 41039, 41040, 807 }
 
-db[41053]["T"] = "The Galak Messenger"
-db[807].T = "Durotar Scouring"
-db[41039].T = "Provisions for Thalanaar"
-db[41040].T = "Woodpaw Disarray"
+local cn = pfDB["quests"]["zhCN-turtle"]
+local en = pfDB["quests"]["enUS-turtle"]
+
+for i,id in pairs(ids) do
+    cn[id].T = en[id].T
+end
