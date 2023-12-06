@@ -1,0 +1,15 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+
+  <Include file="..\db\init-overrite-turtle.lua"/>
+
+  <Include file="..\db\CHS\enUS-overrite-turtle.lua"/> 
+
+  <Include file="..\db\CHS\items-turtle.lua"/>
+  <Include file="..\db\CHS\units-turtle.lua"/>
+  <Include file="..\db\CHS\objects-turtle.lua"/>
+  <Include file="..\db\CHS\quests-turtle.lua"/>
+  <Include file="..\db\CHS\zones-turtle.lua"/>
+  <Include file="..\db\CHS\professions-turtle.lua"/>
+    
+  <Include file="..\db\CHS\content-overrite-turtle.lua"/>
+</Ui>
