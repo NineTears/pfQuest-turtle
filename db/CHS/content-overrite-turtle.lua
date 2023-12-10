@@ -21,3 +21,5 @@ end
 -- }
 
 overrite(pfDB, OverriteDB)
+
+OverriteDB = nil
