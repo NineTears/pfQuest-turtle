@@ -45,7 +45,7 @@ do -- items
   pfDB["items"]["data-turtle"][60815] = { ["U"] = { [2543] = 100 } }
 
   -- Apple a Day: Healing Balm (Interaction)
-  pfDB["items"]["data-turtle"][80865] = { ["U"] = { [8090] = 100 } }
+  pfDB["items"]["data-turtle"][80865] = { ["U"] = { [80900] = 100 } }
 end
 
 do -- units/npcs
