@@ -1154,7 +1154,7 @@ pfDB["quests"]["enUS-turtle"] = {
     ["T"] = "The Rethress Tide Scepter",
   },
   [40040] = {
-    ["D"] = "Howdy! Welcome to Flaxwhisker post. I’m Fendo, in charge of all manner of things around here. I \'m supposed to direct any new arrivals in Flaxwhisker to the boss. That is to say, we haven\'t heard a word from Gnomeregan in months or received any new people! Still, good to have you around, $R. You\'ll find Gigno Flaxwhisker inside, at the top floor.",
+    ["D"] = "Howdy! Welcome to Flaxwhisker post. I\'m Fendo, in charge of all manner of things around here. I \'m supposed to direct any new arrivals in Flaxwhisker to the boss. That is to say, we haven\'t heard a word from Gnomeregan in months or received any new people! Still, good to have you around, $R. You\'ll find Gigno Flaxwhisker inside, at the top floor.",
     ["O"] = "Speak with Gigno Flaxwhisker.",
     ["T"] = "The Flaxwhisker Front",
   },
@@ -1484,7 +1484,7 @@ pfDB["quests"]["enUS-turtle"] = {
     ["T"] = "Disturbing Silence",
   },
   [40113] = {
-    ["D"] = "Hahaha, this be not the death I thought I would end up with, but Bwonsamdi appears to have other plans for me.$B$B<Cough, cough.>$B$BI lived a life with no regrets, $N—until now. I ask this of you, friend. Go north of here after those bastards and show them that if it be war they seek, then the Horde will stand against them.$B$BLok’tar... Ogar.",
+    ["D"] = "Hahaha, this be not the death I thought I would end up with, but Bwonsamdi appears to have other plans for me.$B$B<Cough, cough.>$B$BI lived a life with no regrets, $N—until now. I ask this of you, friend. Go north of here after those bastards and show them that if it be war they seek, then the Horde will stand against them.$B$BLok\'tar... Ogar.",
     ["O"] = "Slay 4 Twilight Cultists and retrieve the Second Plate of Uldum north of the \"Temple of Old\". Return to Sage Truthseeker with the Second Plate and news of his expedition.",
     ["T"] = "Might of the Horde",
   },
@@ -2659,7 +2659,7 @@ pfDB["quests"]["enUS-turtle"] = {
     ["T"] = "Sark\'s Grudge",
   },
   [40356] = {
-    ["D"] = "\'ello there boss mon! Time for Vil\'do to send ya out for dat booty! What, were ya just thinkin\' that ya\'d be only drinkin\' rum for da rest of ya days? No boss mon, ya must be huntin\' treasure so ya can afford da money lust and whatever else ya got. Vil\'do wouldn\'t guess and he shouldn\'t either.$B$BDa loa say Vil\'do would one day die talkin\' since he be talkin\' so much, but Vil\'do don’t listen to them and neither should ya mon.$B$BOne of da boys from da Bloodsail Compound said dey be seein\' some weirdo night elf fightin\' nagas, said somethin’ about him wavin\' his hand in da air and magic goin\' \"woosh\".$B$BNo idea where he be goin\' but Vil\'do sees opportunity here and Vil\'do thinks dis will lead boss mon to booty.",
+    ["D"] = "\'ello there boss mon! Time for Vil\'do to send ya out for dat booty! What, were ya just thinkin\' that ya\'d be only drinkin\' rum for da rest of ya days? No boss mon, ya must be huntin\' treasure so ya can afford da money lust and whatever else ya got. Vil\'do wouldn\'t guess and he shouldn\'t either.$B$BDa loa say Vil\'do would one day die talkin\' since he be talkin\' so much, but Vil\'do don\'t listen to them and neither should ya mon.$B$BOne of da boys from da Bloodsail Compound said dey be seein\' some weirdo night elf fightin\' nagas, said somethin\' about him wavin\' his hand in da air and magic goin\' \"woosh\".$B$BNo idea where he be goin\' but Vil\'do sees opportunity here and Vil\'do thinks dis will lead boss mon to booty.",
     ["O"] = "Find the Night Elf close to Bloodsail Compound.",
     ["T"] = "Elf in the Jungle",
   },
@@ -2669,7 +2669,7 @@ pfDB["quests"]["enUS-turtle"] = {
     ["T"] = "Lift the Anchor!",
   },
   [40358] = {
-    ["D"] = "Get ready boss mon, da trip be a long one! Vil\'do will make sure to be makin\' some room for the treasure ya be comin\' back with. Remember what ya got from ya notes, ya be lookin’ for golden elves! Well ya know statues of golden elves but who cares.$B$BYa do dis and dis be da best haul da Bloodsail got in a long time. Make us proud eh, boss mon?",
+    ["D"] = "Get ready boss mon, da trip be a long one! Vil\'do will make sure to be makin\' some room for the treasure ya be comin\' back with. Remember what ya got from ya notes, ya be lookin\' for golden elves! Well ya know statues of golden elves but who cares.$B$BYa do dis and dis be da best haul da Bloodsail got in a long time. Make us proud eh, boss mon?",
     ["O"] = "Find the Golden Elf.",
     ["T"] = "Golden Elves of Feralas",
   },
@@ -2859,7 +2859,7 @@ pfDB["quests"]["enUS-turtle"] = {
     ["T"] = "Food for Sailing Thoughts?",
   },
   [40396] = {
-    ["D"] = "This is Cookie\'s cookbook, it\'s how I taught him to understand our tongue and how to make a somewhat decent meal.$B$BI tell you, I am not sure if it’s because he\'s a Murloc or not but he barely has a taste for flavor.$B$BI am getting off the sails here.$B$BThe night the ship sank, Cookie fled, leaving all of us to perish. I almost forgot!$B$BI guess my mind gets foggy nowadays, not that I still have a working brain or a consciousness, mind you.$B$BThat motherless Murloc must pay for this bloody mutiny. Bring me proof of his death and I will reward you handsomely$B$BPerhaps I will even be able to move on...",
+    ["D"] = "This is Cookie\'s cookbook, it\'s how I taught him to understand our tongue and how to make a somewhat decent meal.$B$BI tell you, I am not sure if it\'s because he\'s a Murloc or not but he barely has a taste for flavor.$B$BI am getting off the sails here.$B$BThe night the ship sank, Cookie fled, leaving all of us to perish. I almost forgot!$B$BI guess my mind gets foggy nowadays, not that I still have a working brain or a consciousness, mind you.$B$BThat motherless Murloc must pay for this bloody mutiny. Bring me proof of his death and I will reward you handsomely$B$BPerhaps I will even be able to move on...",
     ["O"] = "End Cookie.",
     ["T"] = "Captain Grayson\'s Revenge",
   },
@@ -2994,7 +2994,7 @@ pfDB["quests"]["enUS-turtle"] = {
     ["T"] = "Shadowsworn Altar",
   },
   [40423] = {
-    ["D"] = "Do you know what is the worst here? Not the heat, not the demons. Not even the alliance, sitting comfortably in their castle. It\'s the ogres. Why ogres? Because I hate them. And that’s a reason good enough.$B$BThat, and of course, they are a danger to our mission.$B$BBring me twenty ogre heads. Of any ogre, I don\'t care. I will personally write about your victory in the report.",
+    ["D"] = "Do you know what is the worst here? Not the heat, not the demons. Not even the alliance, sitting comfortably in their castle. It\'s the ogres. Why ogres? Because I hate them. And that\'s a reason good enough.$B$BThat, and of course, they are a danger to our mission.$B$BBring me twenty ogre heads. Of any ogre, I don\'t care. I will personally write about your victory in the report.",
     ["O"] = "Bring 20 Dreadmaul Heads to Bagaroh in the Blasted Lands.",
     ["T"] = "Blasted Ogres!",
   },
@@ -3304,7 +3304,7 @@ pfDB["quests"]["enUS-turtle"] = {
     ["T"] = "The Harvest Golem Mystery",
   },
   [40485] = {
-    ["D"] = "A few months ago, a mysterious blind man moved into an abandoned shack south of Darkshire. A goblin accompanied him, helping him with everyday tasks in exchange for mentorship. He was a renowned engineer, of some kind.$B$BStrange couple, that\'s for sure, though they professed to only be seeking shelter.$B$BWith all our concerns across Duskwood, I was only able to spare a single Watcher to surveil their dealings, and what little I’ve heard has done nothing to quell my suspicions.$B$BIf you venture there and find out what you can as you go about your errand, you would render a fine service to the Night Watch.",
+    ["D"] = "A few months ago, a mysterious blind man moved into an abandoned shack south of Darkshire. A goblin accompanied him, helping him with everyday tasks in exchange for mentorship. He was a renowned engineer, of some kind.$B$BStrange couple, that\'s for sure, though they professed to only be seeking shelter.$B$BWith all our concerns across Duskwood, I was only able to spare a single Watcher to surveil their dealings, and what little I\'ve heard has done nothing to quell my suspicions.$B$BIf you venture there and find out what you can as you go about your errand, you would render a fine service to the Night Watch.",
     ["O"] = "Talk with F.W. in the shack south of Darkshire, then report back to Maltimor.",
     ["T"] = "The Harvest Golem Mystery",
   },
@@ -3464,7 +3464,7 @@ pfDB["quests"]["enUS-turtle"] = {
     ["T"] = "Thalestien\'s Notes",
   },
   [40517] = {
-    ["D"] = "I’d love to take a peek through those again, I was sure they were lost!$B$BThalestien was such an awe-inspiring engineer. So many exciting stories about people and their crafts.$B$BHave you ever heard of Brymidaine Zecker?$B$BA trickster dwarf, that is what he was! Many believed he was the greatest dwarven mage of all time, but rumors say that his magic was no magic at all.$B$BBut the benefit of Engineering and Technology! Look at me babbling, Nel\'doriel surely awaits these notes.$B$BOh well, do tell Nor’diel I’ll visit soon, maybe even help with his Golem!",
+    ["D"] = "I\'d love to take a peek through those again, I was sure they were lost!$B$BThalestien was such an awe-inspiring engineer. So many exciting stories about people and their crafts.$B$BHave you ever heard of Brymidaine Zecker?$B$BA trickster dwarf, that is what he was! Many believed he was the greatest dwarven mage of all time, but rumors say that his magic was no magic at all.$B$BBut the benefit of Engineering and Technology! Look at me babbling, Nel\'doriel surely awaits these notes.$B$BOh well, do tell Nor\'diel I\'ll visit soon, maybe even help with his Golem!",
     ["O"] = "Return to Nel\'doriel in the Mystic Ward, with Thalestien\'s notes.",
     ["T"] = "Back to Nel\'doriel",
   },
@@ -4929,7 +4929,7 @@ pfDB["quests"]["enUS-turtle"] = {
     ["T"] = "The Price of Cowardice",
   },
   [40812] = {
-    ["D"] = "So, that is the judgement of the High Priestess, is it. What a joke. My desire to save lives is seen as cowardice, whereas the commander’s desire for bloodlust is seen as heroism?$B$BPerhaps it really is time for me to return to the hills of my youth. I shall fly with the hawks, swim with the fish and hunt with the wolves, and I expect I will find far less duplicity amongst all of them than with your sentinel friends.",
+    ["D"] = "So, that is the judgement of the High Priestess, is it. What a joke. My desire to save lives is seen as cowardice, whereas the commander\'s desire for bloodlust is seen as heroism?$B$BPerhaps it really is time for me to return to the hills of my youth. I shall fly with the hawks, swim with the fish and hunt with the wolves, and I expect I will find far less duplicity amongst all of them than with your sentinel friends.",
     ["O"] = "Return to Commander Starwind for a reward.",
     ["T"] = "Kaldorei Weaponry",
   },
@@ -5429,12 +5429,12 @@ pfDB["quests"]["enUS-turtle"] = {
     ["T"] = "The 52nd Package",
   },
   [40917] = {
-    ["D"] = "This package contains an incredibly important crystal, $N. This crystal once housed powers drawn from the Well of Eternity itself. And though its power has long since been depleted, there is ever the chance of it being restored, wouldn’t you agree?$B$BI require its power and you will help me restore it, if you wish for your hunger to be satiated, that is. Firstly, you must delve deep into Blackrock Mountain and grab the eye of Overlord Wyrmthalak, who stalks the lower halls of Blackrock Spire.",
+    ["D"] = "This package contains an incredibly important crystal, $N. This crystal once housed powers drawn from the Well of Eternity itself. And though its power has long since been depleted, there is ever the chance of it being restored, wouldn\'t you agree?$B$BI require its power and you will help me restore it, if you wish for your hunger to be satiated, that is. Firstly, you must delve deep into Blackrock Mountain and grab the eye of Overlord Wyrmthalak, who stalks the lower halls of Blackrock Spire.",
     ["O"] = "Acquire the Eye of Wyrmthalak and bring it to the Mysterious Mailbox.",
     ["T"] = "An Eye For a Mystery",
   },
   [40918] = {
-    ["D"] = "You have done well so far, but you certainly took your time returning, didn’t you? The eye is already decomposing, and its powers are fading. Which adds yet another step to your growing list of tasks, $N.$B$BSome necromancy is now going to be required, and though traveling to Northrend is not an option, Scholomance still exists. I am sure they will have a potion that can preserve the eye.$B$BYou know what to do, do not disappoint me.",
+    ["D"] = "You have done well so far, but you certainly took your time returning, didn\'t you? The eye is already decomposing, and its powers are fading. Which adds yet another step to your growing list of tasks, $N.$B$BSome necromancy is now going to be required, and though traveling to Northrend is not an option, Scholomance still exists. I am sure they will have a potion that can preserve the eye.$B$BYou know what to do, do not disappoint me.",
     ["O"] = "Acquire a Necromantic Potion and bring it to the Mysterious Mailbox.",
     ["T"] = "The Stranger and the Potion",
   },
@@ -5654,7 +5654,7 @@ pfDB["quests"]["enUS-turtle"] = {
     ["T"] = "Into the Dream V",
   },
   [40962] = {
-    ["D"] = "Your safe passage into the Dream is impossible while Latharius attempts to sever the Dreamway. If you were to proceed, you would risk becoming trapped and succumbing to the clutches of the Nightmare.$B$BSeek out Larannikus and put an end to his suffering. As confirmation of this act, retrieve a gemstone bestowed upon him by Ysera. He is likely still in possession of it, a Nightmare’s mockery of our legacy.$B$BYou will find Larannikus somewhere within Hyjal, end him.",
+    ["D"] = "Your safe passage into the Dream is impossible while Latharius attempts to sever the Dreamway. If you were to proceed, you would risk becoming trapped and succumbing to the clutches of the Nightmare.$B$BSeek out Larannikus and put an end to his suffering. As confirmation of this act, retrieve a gemstone bestowed upon him by Ysera. He is likely still in possession of it, a Nightmare\'s mockery of our legacy.$B$BYou will find Larannikus somewhere within Hyjal, end him.",
     ["O"] = "Slay Larannikus and retrieve the Charge of Ysera for Ralathius at Nordanaar in Hyjal.",
     ["T"] = "Into the Dream VI",
   },
@@ -6474,7 +6474,7 @@ pfDB["quests"]["enUS-turtle"] = {
     ["T"] = "Favor Amongst the Brotherhood, Dark Iron Bar",
   },
   [41127] = {
-    ["D"] = "Our steadfast dwarven allies have recently settled an old Third War outpost in the Stonetalon Mountains. Their leader is my old friend, Whitepeak. I’m sure he would appreciate your help in resettling Stonetalon for the Alliance.$B$BThe outpost is called Bael Hardul, if my memory serves. To find it, you must go through the Talondeep Pass, then go south into the mountains. There is a secret path that leads to the outpost.$B$BPlease send my best regards to Whitepeak if you find him.",
+    ["D"] = "Our steadfast dwarven allies have recently settled an old Third War outpost in the Stonetalon Mountains. Their leader is my old friend, Whitepeak. I\'m sure he would appreciate your help in resettling Stonetalon for the Alliance.$B$BThe outpost is called Bael Hardul, if my memory serves. To find it, you must go through the Talondeep Pass, then go south into the mountains. There is a secret path that leads to the outpost.$B$BPlease send my best regards to Whitepeak if you find him.",
     ["O"] = "Report to Lead Explorer Whitepeak in the mountain base of Bael Hardul. It is located in the southern Windshear Crag, near the Bramblethorn Pass.",
     ["T"] = "Dwarves of Bael Hardul",
   },
@@ -6734,7 +6734,7 @@ pfDB["quests"]["enUS-turtle"] = {
     ["T"] = "Grabbing the Gear",
   },
   [55011] = {
-    ["D"] = "Not good, not good at all pal! Here I thought we’d be safe and sound under the Horde\'s banner but there\'s rumors coming from Undermine that an old enemy of mine has gotten wind of our location and plans to come knocking!$B$BI don\'t like it, but there\'s this crazy old goblin named Onearm hiding out in Durotar, and if I had to bet money - which I wouldn\'t, I don\'t play with my money - I\'d say he\'s out at Sparkwater.$B$BGive him this piece of paper and sack of coins. I hate to pay someone before they do a job, but this is a special case!",
+    ["D"] = "Not good, not good at all pal! Here I thought we\'d be safe and sound under the Horde\'s banner but there\'s rumors coming from Undermine that an old enemy of mine has gotten wind of our location and plans to come knocking!$B$BI don\'t like it, but there\'s this crazy old goblin named Onearm hiding out in Durotar, and if I had to bet money - which I wouldn\'t, I don\'t play with my money - I\'d say he\'s out at Sparkwater.$B$BGive him this piece of paper and sack of coins. I hate to pay someone before they do a job, but this is a special case!",
     ["O"] = "Find Grimm Onearm in Durotar.",
     ["T"] = "Employing the Cabal",
   },
@@ -7069,7 +7069,7 @@ pfDB["quests"]["enUS-turtle"] = {
     ["T"] = "Imperial Plate Gauntlets",
   },
   [60005] = {
-    ["D"] = "My sheep! They\'re missing! I can\'t run a farm without sheep to shear. These varmint wolves have been scaring my sheep away for too long. I\'m sick and tired of it! Now they\'re scattered around Elwynn, scared and shaking in their expensive fleece.$B$BWithout sheep, I\'ve got no way to support this farm or my daughter, Julie. I use their wool to make everything from handbags to hoods, but times have been tough lately. Say, you\'re a strong-lookin\' feller. Why don\'t you wrangle \'em back for me? You\'ll be doing me a mighty fine favor. I\'ll give you a fair shake in return.$B$BJulie made a batch of their favorite treats. Give them these Elwynn Truffles and they’ll be runnin\' back home in no time.",
+    ["D"] = "My sheep! They\'re missing! I can\'t run a farm without sheep to shear. These varmint wolves have been scaring my sheep away for too long. I\'m sick and tired of it! Now they\'re scattered around Elwynn, scared and shaking in their expensive fleece.$B$BWithout sheep, I\'ve got no way to support this farm or my daughter, Julie. I use their wool to make everything from handbags to hoods, but times have been tough lately. Say, you\'re a strong-lookin\' feller. Why don\'t you wrangle \'em back for me? You\'ll be doing me a mighty fine favor. I\'ll give you a fair shake in return.$B$BJulie made a batch of their favorite treats. Give them these Elwynn Truffles and they\'ll be runnin\' back home in no time.",
     ["O"] = "Find 8 Lost Farm Sheep in Elwynn Forest and feed them Elwynn Truffles to bring them back to farm.",
     ["T"] = "Once Upon a Sheep",
   },
@@ -7339,7 +7339,7 @@ pfDB["quests"]["enUS-turtle"] = {
     ["T"] = "Kodo Hunt",
   },
   [60139] = {
-    ["D"] = "Why in the name of Doomhammer has this plague spread the land? Scorpids!$B$BIt didn\'t used to be this way, but now every time I leave Razor Hill, scorpids! In my tent, my shoes, my armor, always more scorpids! They\'re more of a nuisance to me than a real danger, but each time I get stung I have to drink a healing potion or head back to town for help. I’m sick of it!$B$BI\'m nursing my latest sting right now, but you look like you’re up to the task of a hunt. Head out and kill every scorpid you find! It\'s not like you\'ll have any issue finding them...",
+    ["D"] = "Why in the name of Doomhammer has this plague spread the land? Scorpids!$B$BIt didn\'t used to be this way, but now every time I leave Razor Hill, scorpids! In my tent, my shoes, my armor, always more scorpids! They\'re more of a nuisance to me than a real danger, but each time I get stung I have to drink a healing potion or head back to town for help. I\'m sick of it!$B$BI\'m nursing my latest sting right now, but you look like you\'re up to the task of a hunt. Head out and kill every scorpid you find! It\'s not like you\'ll have any issue finding them...",
     ["O"] = "Kill 10 Armored Scorpid. Stomping on their tails is not required, but may make you feel better. Return to Yelnagi Blackarm in Razor Hill.",
     ["T"] = "No More-pid!",
   },
@@ -7834,7 +7834,7 @@ pfDB["quests"]["enUS-turtle"] = {
     ["T"] = "A Lone Homecoming",
   },
   [80300] = {
-    ["D"] = "Hello mon! I be representing a clutch of the Revantusk Trolls that have left the shores of our home in order to forge a bond and more promising relations with the Horde.$B$BWe be setting up camp in the Stonetalon Mountains, close to the ruined Zandalari temple from before the Great Sundering, and we be needing all the help we can find.$B$BWhen ya can spare the time, speak to Volz’draza in the Warchief\'s hut. She can give ya guidance and will make sure ya get paid for your help.",
+    ["D"] = "Hello mon! I be representing a clutch of the Revantusk Trolls that have left the shores of our home in order to forge a bond and more promising relations with the Horde.$B$BWe be setting up camp in the Stonetalon Mountains, close to the ruined Zandalari temple from before the Great Sundering, and we be needing all the help we can find.$B$BWhen ya can spare the time, speak to Volz\'draza in the Warchief\'s hut. She can give ya guidance and will make sure ya get paid for your help.",
     ["O"] = "Speak to Volz\'draza in Grommash Hold.",
     ["T"] = "A Tusken Affair",
   },
@@ -8249,19 +8249,19 @@ pfDB["quests"]["enUS-turtle"] = {
     ["T"] = "The Price for Information",
   },
   [80708] = {
-    ["D"] = "My boys made preparation for the prisoner to reach Stormwind, his fate will be decided there since he’s part of their jurisdiction.$B$BYou were of great help and I am sure you want to poke around this thing even further, I might have a lead for you, not sure how much it will help though.$B$BUnder the Cathedral District’s Chapel there’s a priest in red robes, the intel I got from Shaw’s men says that his name is Brother Crowley and was sent by the Scarlet Crusade inside the city as an ambassador of sorts.$B$BHis mission was to recruit the willing to fight in the name of the Light or whatever stupid lie these Scarlets are telling to themselves.$B$BIn any case, Crowley hasn’t been that active, we are not sure if he’s the one to recruit these blokes but it’s worth a try.",
-    ["O"] = "Travel to the Cathedral’s District of Stormwind and speak with Brother Crowley.",
+    ["D"] = "My boys made preparation for the prisoner to reach Stormwind, his fate will be decided there since he\'s part of their jurisdiction.$B$BYou were of great help and I am sure you want to poke around this thing even further, I might have a lead for you, not sure how much it will help though.$B$BUnder the Cathedral District\'s Chapel there\'s a priest in red robes, the intel I got from Shaw\'s men says that his name is Brother Crowley and was sent by the Scarlet Crusade inside the city as an ambassador of sorts.$B$BHis mission was to recruit the willing to fight in the name of the Light or whatever stupid lie these Scarlets are telling to themselves.$B$BIn any case, Crowley hasn\'t been that active, we are not sure if he\'s the one to recruit these blokes but it\'s worth a try.",
+    ["O"] = "Travel to the Cathedral\'s District of Stormwind and speak with Brother Crowley.",
     ["T"] = "Scarlet Aid",
   },
   [80709] = {
-    ["D"] = "Abbendis must be stopped and you will be one of the thorns in her side and how better should you do it if not from the inside?$B$BWhile I hold no skill in the arts of the Arcane, a dear friend of mine who just like me will love to see her fall has provided me in the past with a few scrolls that could change one’s appearance.$B$BI am more than happy to offer you one if you were to tell nobody of it, let’s just say the scrolls were for something more meaningful, yet desperate times call for desperate measures.$B$BOnly use this when close to Tyr’s Hand, claim to be one of the disciples of the caravan you destroyed and claim your team was slain by the ogres of Arathi.",
-    ["O"] = "Travel to Tyr’s Hand and report to Mavel Brightwood.",
+    ["D"] = "Abbendis must be stopped and you will be one of the thorns in her side and how better should you do it if not from the inside?$B$BWhile I hold no skill in the arts of the Arcane, a dear friend of mine who just like me will love to see her fall has provided me in the past with a few scrolls that could change one\'s appearance.$B$BI am more than happy to offer you one if you were to tell nobody of it, let\'s just say the scrolls were for something more meaningful, yet desperate times call for desperate measures.$B$BOnly use this when close to Tyr\'s Hand, claim to be one of the disciples of the caravan you destroyed and claim your team was slain by the ogres of Arathi.",
+    ["O"] = "Travel to Tyr\'s Hand and report to Mavel Brightwood.",
     ["T"] = "Donning the Red Flag",
   },
   [80710] = {
-    ["D"] = "Ready for your first assignment?$B$BYour armor looks shabby and your blade dull but if you’re not able to pull up your own weight you’re not worth the trouble of the Light.$B$BTravel the Plaguelands, slay any undead in your path and bring me their brains. Their brains are essential for something the High General has planned, simply do your job and ask no questions.$B$BGo you fool, the Light waits for nobody, go on and claim your glorious purpose.",
+    ["D"] = "Ready for your first assignment?$B$BYour armor looks shabby and your blade dull but if you\'re not able to pull up your own weight you\'re not worth the trouble of the Light.$B$BTravel the Plaguelands, slay any undead in your path and bring me their brains. Their brains are essential for something the High General has planned, simply do your job and ask no questions.$B$BGo you fool, the Light waits for nobody, go on and claim your glorious purpose.",
     ["O"] = "Hunt undead all over the Plaguelands and gather their brains.",
-    ["T"] = "It’s All in Their Brains",
+    ["T"] = "It\'s All in Their Brains",
   },
   [80711] = {
     ["D"] = "Your next errand is to simply collect a few things here and there, nothing special.$B$BYou will find these while fighting Elementals and plants in some of the actual dangerous zones of the world, but I am more than sure you will succeed if you truly are chosen by the Light.$B$BBring me Savage Fronds and Core of the Elements, fifty of each, it will be a great help in what we wish to achieve.$B$BWhen and if you return you will officially be a member and I will give you a map as to where to find the entrance for the secret training spot.$B$BMay the Light bless your poor soul. If you return we will embrace you as a sibling, if you do not we will not mourn for you even for a second.",
@@ -8285,7 +8285,7 @@ pfDB["quests"]["enUS-turtle"] = {
   },
   [80723] = {
     ["D"] = "So this potion is the crux of the Scarlet schemes. Dull, crude and yet irritatingly potent.$B$BI myself do not dabble in the low craft of alchemy. Fortunately, our Queen\'s Royal Apothecaries favor the art of pondering alembics and grinding grass.$B$BVenture to the Apothecarium, find Apothecary Zwinker and show her what you have found. She is a creature of mine.$B$BGo, be quick and be discreet.",
-    ["O"] = "Take the vial to the Apothecarium and speak to Varimathras’ trusted apothecary.",
+    ["O"] = "Take the vial to the Apothecarium and speak to Varimathras\' trusted apothecary.",
     ["T"] = "Trusted Apothecary",
   },
   [80724] = {
@@ -8295,8 +8295,8 @@ pfDB["quests"]["enUS-turtle"] = {
   },
   [80725] = {
     ["D"] = "I sometimes long for Dalaran and of the days I once lived as no more than a mere student of the arcane arts.$B$BWhen the Scourge shackled me to their dominion, my old memories were the only tether that kept me from losing myself utterly.$B$BI do not intend to burden you with my life\'s story, $N, but I already know what this vial is and how it was made, yet I need you to do me a favor before I tell you. Think of it as an equivalent exchange.$B$BGo to the decadent town of Ambermill: Behind its town hall I buried a locket and sealed it with magic.$B$BI will give you a scroll that will erase its warding spell, retrieve the locket, and return it to me. Then we shall talk.",
-    ["O"] = "Travel behind Ambermill and dig for Gunther’s locket.",
-    ["T"] = "In Gunther’s Favor",
+    ["O"] = "Travel behind Ambermill and dig for Gunther\'s locket.",
+    ["T"] = "In Gunther\'s Favor",
   },
   [80726] = {
     ["D"] = "The potion brewed by the Scarlets that you retrieved is known as the Draught of Dormant Death, or Mortudiant as we scholars prefer.$B$BIt was first conceived during the Second War, in Dalaran, to aid in countering the unhallowed might of Gul\'dan\'s death knights.$B$BIt can only be concocted with a specific alchemical implement commonly used in transmutation known as the Philosopher\'s Stone. Which, unfortunately, I neither possess nor know how to emulate.$B$BFor now, you should return to your masters in the Undercity with what you\'ve learned. I will keep the potion and see whether I can learn anything else.",
@@ -8315,7 +8315,7 @@ pfDB["quests"]["enUS-turtle"] = {
   },
   [80729] = {
     ["D"] = "As you may have divined, we contrive to infiltrate you into the ranks of the Scarlet Crusade.$B$BUpon the uniform you\'ve brought me I placed an illusion charm, as well as a few greater cloaking wards to keep the enchantment from easy detection.$B$BAll that is left is for you to introduce yourself as a novice to the recruiters in Tyr\'s Hand.$B$BOne such recruiter should be Mavel Brightwood.$B$BI wish you luck, $N. Have your wits about you and find out what you can of their meddlesome alchemists.",
-    ["O"] = "Travel to Tyr’s Hand and report to Mavel Brightwood.",
+    ["O"] = "Travel to Tyr\'s Hand and report to Mavel Brightwood.",
     ["T"] = "A Different Shade of Red",
   },
   [80730] = {
