@@ -1,10 +1,10 @@
 ## Interface: 11200
 ## Title: |cff33ffccpf|cffffffffQuest |cffcccccc[乌龟魔兽数据中文版4.00]|R
 ## Title-zhCN: |cff33ffccpf|cffffffffQuest |cffcccccc[乌龟魔兽数据中文版4.00]|R
-## Author: Shagu, Gurky, Wind、呲不鸟修改, 名字不好起
+## Author: Shagu, Gurky, Wind, 呲不鸟, 名字不好起
 ## Contributors: Antealis, HumbleKagu, KasVital, Haaxor1689, IcemanHHW, fatpowaranga
-## Notes: |cff33ffccpf|cffffffffQuest-turtle|R|N乌龟魔兽数据追踪修复由|cff33ffccNineTears(Wind)|R及|cff33ffcc呲不鸟|R完成，汉显版由|cff33ffcc名字不好起|R提供。
-## Notes-zhCN: |cff33ffccpf|cffffffffQuest-turtle|R|N乌龟魔兽数据追踪修复由|cff33ffccNineTears(Wind)|R及|cff33ffcc呲不鸟|R完成，汉显版由|cff33ffcc名字不好起|R提供。
+## Notes: |cff33ffccpf|cffffffffQuest |cffcccccc[乌龟魔兽数据中文版]|R由|cff33ffccNineTears(Wind)|R、|cff33ffcc呲不鸟|R、|cff33ffcc名字不好起|R修改完善。
+## Notes-zhCN: |cff33ffccpf|cffffffffQuest |cffcccccc[乌龟魔兽数据中文版]|R由|cff33ffccNineTears(Wind)|R、|cff33ffcc呲不鸟|R、|cff33ffcc名字不好起|R修改完善。
 ## Version: 6.8.13
 ## Dependencies: pfQuest
 ## SavedVariables: pfQuest_turtlecount
