@@ -1,17 +1,17 @@
 ## Interface: 11200
-## Title: |cff33ffccpf|cffffffffQuest |cffcccccc[乌龟魔兽数据中文版4.00]|R
-## Title-zhCN: |cff33ffccpf|cffffffffQuest |cffcccccc[乌龟魔兽数据中文版4.00]|R
-## Author: Shagu, Gurky, Wind, 呲不鸟, 名字不好起
+## Title: |cff33ffccpf|cffffffffQuest-|RTurtle-zhCN |cffcccccc[红星4.00]|R
+## Title-zhCN: |cff33ffccpf|cffffffffQuest-|RTurtle-zhCN |cffcccccc[红星4.00]|R
+## Author: Shagu, Gurky, NineTears(Wind), 呲不鸟, 名字不好起
 ## Contributors: Antealis, HumbleKagu, KasVital, Haaxor1689, IcemanHHW, fatpowaranga
-## Notes: |cff33ffccpf|cffffffffQuest |cffcccccc[乌龟魔兽数据中文版]|R由|cff33ffccNineTears(Wind)|R、|cff33ffcc呲不鸟|R、|cff33ffcc名字不好起|R修改完善。
-## Notes-zhCN: |cff33ffccpf|cffffffffQuest |cffcccccc[乌龟魔兽数据中文版]|R由|cff33ffccNineTears(Wind)|R、|cff33ffcc呲不鸟|R、|cff33ffcc名字不好起|R修改完善。
+## Notes: |cff33ffccpf|cffffffffQuest-|RTurtle-zhCN |cffcccccc[红星]|R版本由|cff33ffccNineTears(Wind)|R&|cff33ffcc呲不鸟|R&|cff33ffcc名字不好起|R修改完善。
+## Notes-zhCN: |cff33ffccpf|cffffffffQuest-|RTurtle-zhCN |cffcccccc[红星]|R版本由|cff33ffccNineTears(Wind)|R&|cff33ffcc呲不鸟|R&|cff33ffcc名字不好起|R修改完善。
 ## Version: 6.8.13
 ## Dependencies: pfQuest
 ## SavedVariables: pfQuest_turtlecount
 
 init\data-turtle.xml
 init\enUS-turtle.xml
-init\ruRU-turtle.xml
+
 init\zhCN-turtle.xml
 
 init\overrites-turtle.xml
