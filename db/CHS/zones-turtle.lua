@@ -14,6 +14,7 @@ OverriteDB["zones"]["zhCN-turtle"] = {
   [696] = "工匠区UNUSED",
   [697] = "贸易区UNUSED",
   [698] = "神庙花园UNUSED",
+  [699] = "月神殿UNUSED",
   [700] = "塞纳里奥区UNUSED",
   [701] = "战士区UNUSED",
   [1118] = "低地荒野UNUSED",
