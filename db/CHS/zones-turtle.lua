@@ -1,4 +1,5 @@
-pfDB["zones"]["zhCN-turtle"] = {
+OverriteDB["zones"]["zhCN-turtle"] = {
+  -- zhCN修正数据
   [1] = "丹莫罗",
   [2] = "长滩",
   [3] = "荒芜之地",
