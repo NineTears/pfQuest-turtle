@@ -9023,4 +9023,9 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Search the battlefield for Lady Katrin and slay her.",
     ["T"] = "Strategic Strike",
   },
+  [5976] = {
+    ["D"] = "The broken blade you bring before me belonged to Razuv lvaldi, one of Lordaeron's strongest knights. His sword alone fell more orcs than any other soldier on the fateful day of Lordaeron's siege, as he cut them down in one fell strike. $B$BFollowing the days after the invaders were repelled, he was heralded as a champion, as it was him who stopped that absolutely viciousorc woman who cut her way through our troops like butter. As a trophy of her death, he took a beautiful diamond necklace from her - one that the zealously held on to, proclaiming it to be the testament of his greatest achievement.$B$BHe was a good man and friend, but his obsession with that pendant and its meaning consumed him, The last I saw of him was at his return with the traitor Menethil, when he as one of his fellow death knights thrust his tainted runeblade into me. $N, I beg of you, find him and put his troubled spirit to rest. Please, do it in his master's stead.",
+    ["O"] = "Protect Sentinel Aynasha, then speak with Onaeya at Maestra's Post in Ashenvale.",
+    ["T"] = "Death In One Strike",
+  },
 }
