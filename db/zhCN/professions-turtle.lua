@@ -131,6 +131,6 @@ pfDB["professions"]["zhCN-turtle"] = {
   [1006] = "坐骑",
   [1007] = "ZzzGlyphs",
   [1008] = "ZzzzToys",
-  [1009] = "Pet - Serpent",
-  [1010] = "Pet - Fox",
+  [1009] = "宠物 - 蛇",
+  [1010] = "宠物 - 狐狸",
 }
