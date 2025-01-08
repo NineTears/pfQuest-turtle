@@ -4409,7 +4409,7 @@ pfDB["quests"]["enUS-turtle"] = {
     ["T"] = "Conflicting Questions",
   },
   [40699] = {
-    ["D"] = "So, Thrall sent you, eh?$B$BInteresting. I was sent here to replace another contact, but I never expected to be contacted. The last two before me were never spoken to about anything.$B$BI work for an organization that has deep ties with Stormwind and has... eyes all over the world, so to speak.$B$BI have the information you seek, but I need a favor from your side beforehand. You see, I am actually here for another purpose. There is something I need taken care of, and quickly.$B$BDo not fret though, if you know your way around the Barrens it can be done quickly. There is a very specific kind of raptor here, the Sunscale. Some of our agents have been looking for vials of its blood for... research purposes. Three in total. Gather those vials for me, and the information is all yours.",
+    ["D"] = "Why hello there!$B$BWhat, shocked to see a gnome so far west? Well, you should be, there isn't many of my kind so far from home.$B$BOr well, what used to be home.$B$BEither way, I'm looking to conduct experiments now that I have some time and space to myself, the first of which requires some flammable, and quite dangerous materials!$B$BFar to the west is a place called The Charred Vale, it is there that roving flame elementals can be found, from them I'd like to acquire something called a 'Flickering Flame'. Get it for me, and I'll make sure you're compensated.",
     ["O"] = "Acquire a Flickering Flame from the fire elementals in The Charred Vale for Spigol Kneebolt at Bael Hardul in Stonetalon Mountains.",
     ["T"] = "A Flickering Flame",
   },
